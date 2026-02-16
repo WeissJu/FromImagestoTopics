@@ -1,2 +1,1 @@
-{\rtf1}
 The file “Codebook_Manual_Coding” contains the original codebook that was used for manual coding. The document “Codebook_Manual_Coding_translated” is a simple English translation of the original codebook for the sake of comprehensibility for readers without knowledge of German.
