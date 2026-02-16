@@ -1,0 +1,1 @@
+This folder contains the prompts that were used. The title indicates which task they were used for and with which model. 
